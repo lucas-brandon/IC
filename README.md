@@ -1,4 +1,4 @@
 # IC-CODE
-Projeto-IC-Leitura e aplicação de textura malha hololens
+Projeto-IC-Leitura e separação de malhas 3D geradas pelo hololens.
 
-para rodar precisa da biblioteca GLM, não esqueça de fazer o download dela
+É necessário fazer o download da biblioteca GLM.
